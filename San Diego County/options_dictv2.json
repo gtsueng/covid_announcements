@@ -1,0 +1,220 @@
+{
+    "noticeType":{
+        "1":"diseaseSpreadStatistics", 
+        "2":"testResult",
+        "3":"diseasePreventionInfo",
+        "4":"screening",
+        "5":"preparation",
+        "6":"treatmentInfo",
+        "7":"misinformationClarification",
+        "8":"vaccineInfo",
+        "9":"diseaseDemographics",
+        "0":"other"
+        },
+    "eventAccess":{
+        "1":"public",
+        "2":"private",
+        "3":"specific",
+        "4":"general",
+        "0":"other"
+    },
+    "eventType":{
+        "1":"conference",
+        "2":"convention",
+        "3":"meeting",
+        "4":"festival",
+        "5":"gatherings",
+        "6":"public forum",
+        "0":"other"
+    },
+    "hasVirtualReplacement":{
+        "1":"full",
+        "2":"partial",
+        "3":"none",
+        "4":"unclear"
+    },
+    "authorizationSubject":{
+        "1":"fundingRequest",
+        "2":"national guard support",
+        "3":"emergencyAid",
+        "4":"investigation",
+        "5":"state of emergency declaration",
+        "6":"policy enforcement",
+        "7":"task force",
+        "0":"other"
+    },
+    "requestApproval":{
+        "1":"granted",
+        "2":"denied",
+        "0":"pending decision"
+    },
+    "requestGrantorType":{
+        "1":"municipal",
+        "2":"county",
+        "3":"state",
+        "4":"federal",
+        "0":"other"
+    },
+    "fundingRequestType":{
+        "1":"emergency",
+        "2":"budget",
+        "0":"other"
+    },
+    "policyType":{
+        "1":"executive order", 
+        "2":"state of emergency declaration",
+        "3":"public guidelines", 
+        "4":"quarantineGuidelines",
+        "5":"travelBans",
+        "6":"population survey",
+        "7":"public measures", 
+        "8":"metrics/criteria",
+        "0":"other"
+    },
+    "subject":{
+        "1":"mask usage",
+        "2":"stay at home",
+        "3":"stay home, if sick",
+        "4":"physical distance",
+        "5":"essential workers/businesses",
+        "6":"eviction restrictions",
+        "7":"unemployment requirement changes",
+        "8":"mortgage/rental assistance",
+        "9":"tax-related changes",
+        "10":"curfew",
+        "11":"gathering size limitations",
+        "12":"gathering space limitations",
+        "13":"visitation restrictions",
+        "14":"mask/medical supply conservation/distribution",
+        "15":"business closures",
+        "16":"medical resource conservation/distribution",
+        "17":"non-medical supply distribution changes",
+        "18":"openings",
+        "19":"task force",
+        "20":"sanitation or safety protocol",
+        "21":"temperature screening",
+        "22":"emergency authorization",
+        "0":"other"
+    },
+    "policyStatus":{
+        "1":"enforced",
+        "2":"required",
+        "3":"recommended",
+        "4":"optional",
+        "5":"unclear",
+        "6":"proposed",
+        "7":"approved",
+        "8":"rejected",
+        "9":"performed",
+        "0":"other"
+    },
+    "testType":{
+        "1":"antibody",
+        "2":"pcr",
+        "3":"unspecified",
+        "0":"other"
+    },
+
+    "serviceAccessType":{
+        "1":"public",
+        "2":"private",
+        "0":"other"
+    },
+    "serviceChangeType":{
+        "1":"governmentBenefitsInfo",
+        "2":"publicTransportClosuresInfo",
+        "3":"libraryClosuresInfo",
+        "4":"pandemicInfo",
+        "5":"animalAdoptionInfo",
+        "0":"other"
+    },
+    "personnelType":{
+        "1":"Person",
+        "2":"Organization",
+        "0":"other"
+    },
+    "changeType":{
+        "PersonnelChangeInfo":{
+            "1":"leave",
+            "2":"join",
+            "3":"recruiting",
+            "0":"other"
+        },
+        "PhysicalAccessInfo":{
+            "1":"open",
+            "2":"close",
+            "3":"change of hours",
+            "4":"virtualization",
+            "5":"mail/shipping option",
+            "6":"take out option",
+            "0":"other"
+        },
+        "ServiceChangeInfo":{
+            "1":"open",
+            "2":"close",
+            "3":"change of hours",
+            "4":"virtualization",
+            "5":"appointment required",
+            "6":"inventory",
+            "7":"availability",
+            "8":"extension/expansion",
+            "9":"fee/cost changed",
+            "0":"other"
+        }
+    },
+    "relevantCategory":{
+        "1":"Emergency Response",
+        "2":"Task Force",
+        "3":"Poll workers",
+        "0":"other"
+    },
+    "locationAccessType":{
+        "1":"public",
+        "2":"private",
+        "3":"specific",
+        "4":"general",
+        "0":"other"
+    },
+    "locationType":{
+        "1":"open space park",
+        "2":"childcare facility",
+        "3":"educational facility",
+        "4":"administrative office",
+        "5":"exercise facility",
+        "6":"handwash stations",
+        "7":"medical care facility",
+        "8":"mental health facility",
+        "9":"food service facility",
+        "10":"human welfare facility",
+        "11":"grocery stores",
+        "12":"drug stores",
+        "13":"gas stations",
+        "14":"religious facilities",
+        "15":"shipping/mailing facility",
+        "16":"banking facility",
+        "17":"transportation hub",
+        "18":"animal care facility",
+        "19":"correctional facility",
+        "20":"polling facility / ballot drop-off",
+        "21":"bars / adult entertainment facility",
+        "22":"amusement park",
+        "23":"recreation facility",
+        "24":"library/community resource facility",
+        "25":"grooming facilities",
+        "26":"auto maintenance facilities",
+        "27":"home maintenance stores",
+        "28":"testing sites",
+        "0":"other"
+    },
+    "physicalAccessChangeType":{
+        "1":"schoolClosuresInfo",
+        "2":"bed availability",
+        "3":"ICU bed availability",
+        "4":"polling station / ballot drop-off availability",
+        "5":"essential personnel restrictions",
+        "6":"take out/delivery service availability",
+        "7":"additional measures in place",
+        "8":"shelter/room availability",
+        "0":"other"
+    }
+}

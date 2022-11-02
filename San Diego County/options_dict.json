@@ -1,0 +1,164 @@
+{
+    "noticeType":{
+        "diseaseSpreadStatistics":"1", 
+        "testResult":"2",
+        "diseasePreventionInfo":"3",
+        "screening":"4",
+        "other":"0"
+        },
+    "eventAccess":{
+        "public":"1",
+        "private":"2",
+        "specific":"3",
+        "general":"4",
+        "other":"0"
+    },
+    "eventType":{
+        "conference":"1",
+        "convention":"2",
+        "meeting":"3",
+        "festival":"4",
+        "gatherings":"5",
+        "public forum":"6",
+        "other":"0"
+    },
+    "hasVirtualReplacement":{
+        "full":"1",
+        "partial":"2",
+        "none":"3",
+        "unclear":"0"
+    },
+    "authorizationSubject":{
+        "fundingRequest":"1", 
+        "national guard support":"2",
+        "emergencyAid":"3",
+        "investigation":"4",
+        "other":"0"
+    },
+    "requestApproval":{
+        "granted":"1",
+        "denied":"2",
+        "pending decision":"0"
+    },
+    "requestGrantorType":{
+        "municipal":"1",
+        "county":"2", 
+        "state":"3", 
+        "federal":"4",
+        "other":"0"
+    },
+    "fundingRequestType":{
+        "emergency":"1", 
+        "budget":"2",
+        "other":"0"
+    },
+    "policyType":{
+        "executive order":"1",
+        "state of emergency declaration":"2",
+        "public guidelines":"3",
+        "quarantineGuidelines":"4",
+        "travelBans":"5",
+        "population survey":"6",
+        "public measures":"7",
+        "other":"0"
+    },
+    "subject":{
+        "masks":"1",
+        "stay at home":"2",
+        "social distance":"3",
+        "physical distance":"4",
+        "essential workers":"5",
+        "eviction restrictions":"6",
+        "unemployment requirement changes":"7",
+        "mortgage assistance":"8",
+        "tax-related changes":"9",
+        "curfew":"10",
+        "gathering size limitations":"11",
+        "gathering space limitations":"12",
+        "other":"0"
+    },
+    "policyStatus":{
+        "enforced":"1",
+        "required":"2",
+        "recommended":"3",
+        "optional":"4",
+        "unclear":"5",
+        "proposed":"6",
+        "approved":"7",
+        "rejected":"8",
+        "performed":"9",
+        "other":"0"
+    },
+    "testType":{
+        "antibody":"1",
+        "pcr":"2",
+        "other":"0"
+    },
+
+    "serviceAccessType":{
+        "public":"1",
+        "private":"2",
+        "other":"0"
+    },
+    "serviceChangeType":{
+        "governmentBenefitsInfo":"1",
+        "publicTransportClosuresInfo":"2",
+        "other":"0"
+    },
+    "personnelType":{
+        "Person":"1",
+        "Organization":"2",
+        "Other":"0"
+    },
+    "changeType":{
+        "personnel":{
+            "leave":"1",
+            "join":"2",
+            "other":"0"
+        },
+        "physicalAccess":{
+            "open":"1",
+            "close":"2",
+            "change of hours":"3",
+            "virtualization":"4",
+            "other":"0"
+        }
+    },
+    "relevanceCategory":{
+        "Emergency Response":"1",
+        "Task Force":"2",
+        "other":"0"
+    },
+    "locationAccess":{
+        "public":"1",
+        "private":"2",
+        "specific":"3",
+        "general":"4",
+        "other":"0"
+    },
+    "locationType":{
+        "open space park":"1",
+        "educational facility":"2",
+        "administrative office":"3", 
+        "exercise facility":"4",
+        "handwash stations":"5",
+        "medical care facility":"6",
+        "mental health facility":"7",
+        "food service facility":"8",
+        "human welfare facility":"9",
+        "grocery stores":"10",
+        "drug stores":"11",
+        "gas stations":"12",
+        "religious facilities":"13",
+        "shipping/mailing facility":"14",
+        "banking facility":"15",
+        "transportation hub":"16",
+        "animal care facility":"17",
+        "other":"0"
+    },
+    "physicalAccessChangeType":{
+        "schoolClosuresInfo":"1",
+        "bed availability":"2",
+        "ICU bed availability":"3"
+    }
+}

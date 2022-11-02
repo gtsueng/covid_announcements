@@ -1,0 +1,73 @@
+	locationType	changeType	frequency
+0	administrative office	close	2
+1	administrative office	open	1
+2	animal care facilities	open	1
+3	animal care facilities	take out option	1
+4	animal care facility	open	2
+5	animal care facility	take out option	2
+6	auto maintenance facilities	open	2
+7	auto maintenance facilities	take out option	2
+8	banking facility	open	1
+9	banking facility	take out option	1
+10	bars / adult entertainment facility	change of hours	1
+11	bars / adult entertainment facility	close	5
+12	bars / adult entertainment facility	take out option	1
+13	bookstores	open	3
+14	bookstores	take out option	3
+15	campsites	open	1
+16	campsites	take out option	1
+17	childcare facility	close	1
+18	childcare facility	open	3
+19	childcare facility	other	1
+20	childcare facility	take out option	3
+21	clothing retailers	open	3
+22	clothing retailers	take out option	3
+23	educational facility	close	4
+24	educational facility	take out option	1
+25	exercise facility	close	4
+26	exercise facility	other	1
+27	florists	open	3
+28	florists	take out option	3
+29	food service facility	change of hours	1
+30	food service facility	close	1
+31	food service facility	open	4
+32	food service facility	take out option	4
+33	grocery stores	open	1
+34	grocery stores	take out option	1
+35	grooming facilities	close	2
+36	grooming facilities	open	1
+37	handwash stations	open	2
+38	home maintenance stores	open	1
+39	home maintenance stores	take out option	1
+40	human welfare facility	open	18
+41	landscaping businesses	open	1
+42	landscaping businesses	take out option	1
+43	library	mail/shipping option	1
+44	library	take out option	1
+45	library	virtualization	1
+46	library/community resource facility	open	1
+47	library/community resource facility	take out option	1
+48	medical care facility	close	1
+49	medical care facility	open	2
+50	medical care facility	take out option	2
+51	mental health facility	open	1
+52	open space park	close	1
+53	open space park	open	7
+54	outdoor museums	open	1
+55	outdoor museums	take out option	1
+56	polling facility / ballot drop-off	mail/shipping option	1
+57	polling facility / ballot drop-off	open	7
+58	portable bathrooms	open	1
+59	recreational equipment rental retailers	open	1
+60	recreational equipment rental retailers	take out option	1
+61	religious facilities	open	1
+62	retail facility	open	1
+63	shopping malls	open	1
+64	shopping malls	take out option	1
+65	sporting goods retailers	open	3
+66	sporting goods retailers	take out option	3
+67	testing sites	open	14
+68	toy  retailers	open	3
+69	toy  retailers	take out option	3
+70	transportation hub	open	1
+71	transportation hub	take out option	1

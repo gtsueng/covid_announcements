@@ -1,0 +1,66 @@
+	policyType	subject	frequency
+0	business guidelines	mask usage	1
+1	business guidelines	openings	1
+2	business guidelines	physical distance	1
+3	business guidelines	sanitation or safety protocol	1
+4	business guidelines	stay home, if sick	1
+5	evacuation plan	vulnerable populations	1
+6	executive order	business closures	3
+7	executive order	essential workers/businesses	4
+8	executive order	food safety practices	1
+9	executive order	gathering size limitations	1
+10	executive order	gathering space limitations	1
+11	executive order	mask usage	1
+12	executive order	medical resource conservation/distribution	1
+13	executive order	stay at home	3
+14	executive order	voting options	1
+15	metrics/criteria	case rate <100/100000	3
+16	metrics/criteria	mask/medical supply conservation/distribution	12
+17	metrics/criteria	openings	1
+18	population survey	homeless	1
+19	public guidelines	criteria	1
+20	public guidelines	essential workers/businesses	4
+21	public guidelines	gathering size limitations	7
+22	public guidelines	gathering space limitations	3
+23	public guidelines	mask usage	11
+24	public guidelines	mask/medical supply conservation/distribution	1
+25	public guidelines	no vendors	1
+26	public guidelines	non-medical supply distribution changes	1
+27	public guidelines	openings	4
+28	public guidelines	physical distance	20
+29	public guidelines	sanitation or safety protocol	6
+30	public guidelines	stay at home	7
+31	public guidelines	stay home, if sick	4
+32	public guidelines	stay in vehicles	1
+33	public guidelines	temperature screening	1
+34	public guidelines	visitation restrictions	1
+35	public measures	business assistance	1
+36	public measures	business closures	2
+37	public measures	essential workers/businesses	5
+38	public measures	eviction restrictions	1
+39	public measures	fee deferral	1
+40	public measures	gathering size limitations	13
+41	public measures	gathering space limitations	6
+42	public measures	homeless	1
+43	public measures	mask usage	17
+44	public measures	mask/medical supply conservation/distribution	2
+45	public measures	medical resource conservation/distribution	3
+46	public measures	mortgage/rental assistance	1
+47	public measures	non-medical supply distribution changes	1
+48	public measures	other	2
+49	public measures	physical distance	14
+50	public measures	sanitation or safety protocol	4
+51	public measures	stay at home	9
+52	public measures	visitation restrictions	4
+53	quarantineGuidelines	essential workers/businesses	1
+54	quarantineGuidelines	gathering size limitations	2
+55	quarantineGuidelines	physical distance	2
+56	quarantineGuidelines	self-isolation	1
+57	quarantineGuidelines	stay at home	1
+58	quarantineGuidelines	testing	1
+59	quarantineGuidelines	visitation restrictions	1
+60	sales ban	flavored smoking products	1
+61	state of emergency declaration	emergency authorization	1
+62	strategy	mask/medical supply conservation/distribution	13
+63	strategy	medical resource conservation/distribution	1
+64	task force creation	task force	1

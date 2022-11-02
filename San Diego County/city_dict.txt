@@ -1,0 +1,20 @@
+cities_in_sdcounty:{
+"Carlsbad":"Q491099",
+"Chula Vista":"Q49270",
+"Coronado":"Q828753",
+"Del Mar":"Q674469",
+"El Cajon":"Q369947",
+"Encinitas":"Q532711",
+"Escondido":"Q372454",
+"Imperial Beach:"Q917531",
+"La Mesa":"Q850929",
+"Lemon Grove":"Q948206",
+"National City":"Q430316",
+"Oceanside":"Q488924",
+"Poway":"Q540727",
+"San Diego":"Q16552",
+"San Marcos":"Q506411",
+"Santee":"Q923799",
+"Solana Beach":"Q383278",
+"Vista":"Q924241"
+}
