@@ -1,0 +1,37 @@
+# Test workflow for running a python script via github actions
+
+name: Github actions to run an update
+
+on:
+  schedule:
+  - cron: '0 8 * * 2'
+
+jobs: 
+  run:
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: '3.8'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: run table updates
+      run: |
+        python run_updates.py
+    - name: Commit files
+      id: commit_updates
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "github-actions"
+        git add --all
+        git commit -m "update data" -a
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
